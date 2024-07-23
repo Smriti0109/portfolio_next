@@ -39,7 +39,7 @@ const Sparkles = () => {
         <div className="absolute inset-0 w-full h-full bg-black [mask-image:radial-gradient(350px_200px_at_top,transparent_20%,white)]"></div>
 
       </div>
-      <a href="/SmritiSingh_CE2_Resume (2).pdf" download>
+      <a href="/SmritiSingh_CE2_Resume.pdf" download>
         <HoverBorderGradient
 
           containerClassName="rounded-full"
